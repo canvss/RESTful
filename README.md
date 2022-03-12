@@ -1,6 +1,6 @@
 # REST API 定义：什么是 REST API（RESTful API）？
 
-###### API（Application Programming Interface：应用程序接口）是一些预先定义的借口（如函数、HTTP接口），或指软件系统不同组成部分分衔接的约定。
+API（Application Programming Interface：应用程序接口）是一些预先定义的借口（如函数、HTTP接口），或指软件系统不同组成部分分衔接的约定。
 
 #### 什么是REST API
 
