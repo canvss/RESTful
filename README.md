@@ -10,8 +10,6 @@ RESTful于2000年由Roy Fielding首次引入，是一种经常用于互联网服
 
 
 
-------
-
 ![](img/rf-01.png)
 
 
