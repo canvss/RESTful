@@ -6,7 +6,7 @@ RESTful于2000年由Roy Fielding首次引入，是一种**经常用于互联网�
 
 > REST API 的完整形式是 Representational State Transfer Application Programming Interface，通常称为 Rest API Web 服务。这意味着当调用 RESTful API 时，服务器会将请求的资源*状态*的*表示**传输*到客户端系统。
 
-![](images/rf-01.png)
+![](https://canvs.oss-cn-chengdu.aliyuncs.com/canvs_typora/rest_api.png)
 
 ### REST API 如何工作
 
